@@ -1,0 +1,6 @@
+{
+  "name": "Local Rank Insight",
+  "description": "Analyze your local competitors and discover why they are outranking you on Google Business Profiles.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
